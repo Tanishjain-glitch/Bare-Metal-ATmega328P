@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20UNO-blue)
 ![MCU](https://img.shields.io/badge/MCU-ATmega328P-green)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![Language](https://img.shields.io/badge/Language-C-orange)
 
 ---
 
