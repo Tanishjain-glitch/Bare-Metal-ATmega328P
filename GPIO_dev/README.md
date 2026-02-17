@@ -1,6 +1,5 @@
 # GPIO Driver - Bare Metal Arduino UNO (ATmega328P)
 
-**Assignment**: Firmware Intern - Unbox Robotics
 **Hardware**: Arduino UNO (ATmega328P)
 **Branch**: `GPIO_dev`
 
@@ -15,6 +14,7 @@ every 500ms — without using any Arduino libraries or functions.
 ---
 
 ## 🎯 What It Does
+
 
 - Configures **Pin 13 (PB5)** as a digital output
 - Toggles the **onboard LED** every **500ms** in an infinite loop
@@ -32,6 +32,10 @@ every 500ms — without using any Arduino libraries or functions.
 | Target Pin | Pin 13 → PB5 (Port B, bit 5) |
 
 ---
+
+
+https://github.com/user-attachments/assets/abcb2df2-c111-45cb-88a1-e1b6186de2d8
+
 
 ## 📝 Code Explanation
 
